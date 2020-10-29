@@ -513,7 +513,7 @@
             this.Controls.Add(this.basePanel);
             this.Controls.Add(this.addConnPanel);
             this.Name = "Form1";
-            this.Text = "SSH Monitor";
+            this.Text = "SSH Monitor (v1.0)";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.addConnPanel.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
