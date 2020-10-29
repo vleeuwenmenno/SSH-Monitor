@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/vleeuwenmenno/SSH-Monitor">
-    <img src="assets/icon.png" alt="Logo" height="80">
+    <img src="assets/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">SSH Monitor for PiVPN</h3>
